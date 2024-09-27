@@ -1,7 +1,7 @@
 bl_info = {
     "name": "EZQuadRemeshes",
     "author": "snowyegret",
-    "version": (1, 0),
+    "version": (1, 0, 1),
     "blender": (3, 6, 0),
     "location": "View3D > Sidebar > EZQuadRemeshes",
     "description": "Easy quad remeshing tool",
